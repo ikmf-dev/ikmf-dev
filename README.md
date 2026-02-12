@@ -1,64 +1,61 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Ikbal%20Miftahudin&fontSize=70&animation=fadeIn" />
-</p>
+<h1 align="center">Hi 👋, I'm Ikbal Miftahudin</h1>
+
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Laravel+Enthusiast;JavaScript+Lover;Building+Scalable+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+Enthusiast;JavaScript+Lover;Building+Scalable+Web+Apps;Always+Learning+New+Things" />
+
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/bbbaaalllllll"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ikmf-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+
 
 ---
+
+
 
 ## 🚀 About Me
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <ul style="list-style-type:none;">
-        <li>💻 <b>Focused on:</b> Web Development</li>
-        <li>⚡ <b>Passion:</b> Building clean & scalable applications</li>
-        <li>🌱 <b>Learning:</b> System architecture</li>
-        <li>🎯 <b>Goal:</b> Professional Software Engineer</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikmf-dev&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+- 💻 Focused on Web Development
+
+- ⚡ Love building clean & scalable applications
+
+- 🌱 Currently exploring system architecture
+
+- 🎯 Goal: Becoming a Professional Software Engineer
+
+
 
 ---
+
+
 
 ## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,mysql,postgres,flutter,git,tailwind,bootstrap,linux,docker" />
+
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,mysql,postgres,flutter,git" />
+
 </p>
+
+
 
 ---
 
-## 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikmf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ikmf-dev&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+
+
+## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikmf-dev&theme=tokyonight&area=true&hide_border=true" width="100%" />
+
+  <img src="https://streak-stats.demolab.com/?user=ikmf-dev&theme=tokyonight" />
+
 </p>
+
+
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ikmf-dev/ikmf-dev/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikmf-dev&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ikmf-dev&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
