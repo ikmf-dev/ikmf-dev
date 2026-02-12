@@ -56,6 +56,6 @@
 
 ---
 
+![snake gif](https://github.com/ikmf-dev/ikmf-dev/blob/output/github-contribution-grid-snake.svg)
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ikmf-dev&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
