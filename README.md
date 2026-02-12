@@ -17,11 +17,8 @@
 ## 🚀 About Me
 
 - 💻 Focused on Web Development
-
 - ⚡ Love building clean & scalable applications
-
 - 🌱 Currently exploring system architecture
-
 - 🎯 Goal: Becoming a Professional Software Engineer
 
 
