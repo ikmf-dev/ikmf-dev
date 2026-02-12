@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ikbal Miftahudin</h1>
-<h3 align="center">Fullstack Developer | Laravel & JavaScript Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+Enthusiast;JavaScript+Lover;Building+Scalable+Web+Apps;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Passionate about Web Development
-- ⚡ Building scalable and clean applications
-- 🌱 Currently learning advanced system architecture
-- 🎯 Focused on becoming a professional software engineer
+- 💻 Focused on Web Development
+- ⚡ Love building clean & scalable applications
+- 🌱 Currently exploring system architecture
+- 🎯 Goal: Becoming a Professional Software Engineer
 
 ---
 
 ## 🛠 Tech Stack
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,mysql,postgres,flutter,git" />
 </p>
 
